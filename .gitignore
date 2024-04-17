@@ -1,0 +1,19 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+.env/
+
+# Python bytecode
+__pycache__/
+
+# Temporary files
+*.tmp
+*.TMP
+
+# Miscellaneous
+.DS_Store
+
+node_modules/
+npm-debug.log

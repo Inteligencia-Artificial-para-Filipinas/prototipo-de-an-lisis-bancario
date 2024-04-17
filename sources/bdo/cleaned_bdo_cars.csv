@@ -1,0 +1,320 @@
+,brand,generic_text,year,mileage,color,plate,price,location,model,transmission,fuel,converted_mileage
+0,Changan,"CS35 Plus 1.4 Luxe, A/T, Gas",2023,4T,Black/Red,NIL 5623,1012000,MOA - PASAY,CS35 Plus 1.4 Luxe,automatic,gas,4000
+1,Chery,"Tiggo 7 Pro 1.5L, A/T, Gas",2022,1T,Red,NEE 5392    CS# I0 O092 (WITHOUT PLATES),959000,MOA - PASAY,Tiggo 7 Pro 1.5L,automatic,gas,1000
+2,Chery,"Tiggo 7 Pro, A/T, GAS",2022,17T,Red,NGQ 3019,943000,"Gateway Bus Park, Gen. Trias, Cavite",Tiggo 7 Pro,automatic,gas,17000
+3,Chevrolet,"Camaro RS V6 3.6, A/T, GAS",2019,28T (per checklist),Orange Crush,NGS 9134 (VIRTUAL PLATE),2343000,Bacolod,Camaro RS V6 3.6,automatic,gas,28000
+4,Chevrolet,"Colorado High Country Storm 4x4 2.8L, A/T, DSL",2020,58T (per checklist),Orange,FAL 1300     CS# W0 E343 (WITHOUT PLATES),863000,Bacolod,Colorado High Country Storm 4x4 2.8L,automatic,dsl,58000
+5,Chevrolet,"Colorado LT 4x2 2.5L, M/T, DSL",2019,6T,Switchblade Silver,FAG 1847    CS# WE5756 (WITHOUT PLATES),757000,Bacolod,Colorado LT 4x2 2.5L,manual,dsl,6000
+6,Chevrolet,"Colorado LT 4x2 2.5L, M/T, DSL",2019,74T,Orange,FAE 8551,714000,"Bolilao, Iloilo",Colorado LT 4x2 2.5L,manual,dsl,74000
+7,Chevrolet,"Colorado LTX 4x2 2.8, A/T, DSL",2017,120T,Mountain Blue,NCM 7809,629000,"Howmart, QC",Colorado LTX 4x2 2.8,automatic,dsl,120000
+8,Chevrolet,"Colorado LTZ 4x4 2.8, A/T, DSL",2019,108T,Summit White,NCU 9367,837000,"Gateway Bus Park, Gen. Trias, Cavite",Colorado LTZ 4x4 2.8,automatic,dsl,108000
+9,Chevrolet,"Colorado LTZ Pro 4x4 2.8L, A/T, DSL",2016,135T,Summit White,NCE 2156,586000,"Gateway Bus Park, Gen. Trias, Cavite",Colorado LTZ Pro 4x4 2.8L,automatic,dsl,135000
+10,Chevrolet,"Colorado Trailboss 4x2 2.8, A/T, DSL",2020,36T (per checklist),Orange,FAF 2470 (CRE) /                               CS# W0 H507 (WITHOUT PLATES),794000,Bacolod,Colorado Trailboss 4x2 2.8,automatic,dsl,36000
+11,Chevrolet,"Sail 1.3 LT, M/T, GAS",2018,41T (per checklist),Black Meet Kettle,NCW 2256,245000,MOA - PASAY,Sail 1.3 LT,manual,gas,41000
+12,Chevrolet,"Sail 1.3 LT, M/T, GAS",2018,56T,Black Metallic,CS# WE 1726 (WITHOUT PLATES),267000,Cavite,Sail 1.3 LT,manual,gas,56000
+13,Chevrolet,"Trailblazer LT 4x2 2.8, A/T, DSL",2019,88T,Satin Steel Gray,NAY 7060,757000,MOA - PASAY,Trailblazer LT 4x2 2.8,automatic,dsl,88000
+14,Chevrolet,"Trailblazer LT 4x2, A/T, DSL",2018,33T (per checklist),Auburn Brown,FAD 2431,384000,Bacolod,Trailblazer LT 4x2,automatic,dsl,33000
+15,Chevrolet,"Trailblazer LTX 4x2 2.8, A/T, DSL",2018,53T,Pull Me Over Red,NEA 7533,884000,MOA - PASAY,Trailblazer LTX 4x2 2.8,automatic,dsl,53000
+16,Chevrolet,"Trailblazer Z71 4x4 2.8, A/T, DSL",2018,73T,Satin Steel Gray,IAA 1569,895000,MOA - PASAY,Trailblazer Z71 4x4 2.8,automatic,dsl,73000
+17,Chevrolet,"Trailblazer Z71 4x4 2.8L, A/T, DSL",2019,89T,Black Meet Kettle,NDL 1834,996000,"Gateway Bus Park, Gen. Trias, Cavite",Trailblazer Z71 4x4 2.8L,automatic,dsl,89000
+18,Chevrolet,"Trax LS 1.4, A/T, GAS",2017,70T,Blue Metallic,NAW 1876 (CRE)                           / CS# WD 5957 (WITHOUT PLATES),400000,"Gateway Bus Park, Gen. Trias, Cavite",Trax LS 1.4,automatic,gas,70000
+19,Ford,"Ecosport 1.0 Ecoboost Titanium, A/T, Gas",2019,41T,Blue Lightning,DAL 2767,629000,MOA - PASAY,Ecosport 1.0 Ecoboost Titanium,automatic,gas,41000
+20,Ford,"Ecosport 1.0 Titanium Ecoboost, A/T, GAS",2020,7T,Ruby Red,GAO 5107,746000,Cebu,Ecosport 1.0 Titanium Ecoboost,automatic,gas,7000
+21,Ford,"Ecosport 1.5 Trend, A/T, GAS",2020,49T,Crystal White,NGS 7142,655000,MOA - PASAY,Ecosport 1.5 Trend,automatic,gas,49000
+22,Ford,"Ecosport 5DR Titanium 1.5L, A/T, Gas",2018,37T,Mars Red,NAJ 3809,501000,"Gateway Bus Park, Gen. Trias, Cavite",Ecosport 5DR Titanium 1.5L,automatic,gas,37000
+23,Ford,"Ecosport 5DR Titanium 1.5L, A/T, Gas",2018,57T,Frozen White,KAB 2669,384000,Cagayan de Oro,Ecosport 5DR Titanium 1.5L,automatic,gas,57000
+24,Ford,"Ecosport 5DR Titanium 4x2 1.0L, A/T, Gas",2019,62T,Blue,NBG 8349,570000,"Gateway Bus Park, Gen. Trias, Cavite",Ecosport 5DR Titanium 4x2 1.0L,automatic,gas,62000
+25,Ford,"Ecosport 5DR Trend 1.5L, A/T, Gas",2017,34T,Frozen White,ADZ 5626    (CRE)           CDZ 5626 (ACTUAL),379000,"Howmart, QC",Ecosport 5DR Trend 1.5L,automatic,gas,34000
+26,Ford,"Ecosport Titanium 1.0 Ecoboost, A/T, Gas",2020,1T,Absolute Black,NGJ 2518,746000,"Howmart, QC",Ecosport Titanium 1.0 Ecoboost,automatic,gas,1000
+27,Ford,"Ecosport Titanium 1.0, A/T, DSL",2019,91T,Blue Lightning,NDI 2044,586000,MOA - PASAY,Ecosport Titanium 1.0,automatic,dsl,91000
+28,Ford,"Ecosport Trend 1.5, A/T, GAS",2020,31T,Absolute Black,FAL 5756,634000,Bacolod,Ecosport Trend 1.5,automatic,gas,31000
+29,Ford,"Escape 1.6 SE Ecoboost, A/T, Gas",2015,79T,White,ABM 3714,373000,"Bolilao, Iloilo",Escape 1.6 SE Ecoboost,automatic,gas,79000
+30,Ford,"Everest Sport 4x2 2.0L, A/T, DSL",2020,40T,Aluminum Metallic,FAJ 8557,1332000,"Bolilao, Iloilo",Everest Sport 4x2 2.0L,automatic,dsl,40000
+31,Ford,"Everest Tiitanium 4x2 2.2L, A/T, DSL",2018,46T,Blue Reflex,ZAC 5483,1044000,Panabo City,Everest Tiitanium 4x2 2.2L,automatic,dsl,46000
+32,Ford,"Everest Titanium + 4x2 2.2, A/T, DSL",2018,48T,Sunset Red,NBQ 5031,1007000,MOA - PASAY,Everest Titanium + 4x2 2.2,automatic,dsl,48000
+33,Ford,"Everest Titanium + 4x4 3.2L, A/T, DSL",2018,58T,Sunset Red,DAJ 1060     CS# C1 H364 (WITHOUT PLATES),1188000,MOA - PASAY,Everest Titanium + 4x4 3.2L,automatic,dsl,58000
+34,Ford,"Everest Titanium 4x2 2.0, A/T, DSL",2022,60T,Deep Crystal Blue,JAF 8097,1720000,Cagayan de Oro,Everest Titanium 4x2 2.0,automatic,dsl,60000
+35,Ford,"Everest Titanium 4x2 2.2, A/T, DSL",2018,78T,Aluminum Metallic,GAI 6304,1002000,"Bolilao, Iloilo",Everest Titanium 4x2 2.2,automatic,dsl,78000
+36,Ford,"Everest Titanium 4x4 3.2, A/T, DSL",2016,63T,Sunset Red,ACP 7763 (CRE) /                   DCP 7763 (ACTUAL),991000,"Howmart, QC",Everest Titanium 4x4 3.2,automatic,dsl,63000
+37,Ford,"Everest Titanium Plus 4x2 2.2L, A/T, DSL",2018,23T,Arctic White,NBH 4916    CS# C1 K577 (WITHOUT PLATES),1151000,QC,Everest Titanium Plus 4x2 2.2L,automatic,dsl,23000
+38,Ford,"Everest Titanium Premium 4x2 2.2L, A/T, DSL",2018,44T,Aluminum Metallic,ZAB 5267,1119000,Cagayan de Oro,Everest Titanium Premium 4x2 2.2L,automatic,dsl,44000
+39,Ford,"Explorer V6 4x4 3.5L Sport Ecoboost, A/T, Gas",2017,90T (per checklist),White,CAG 6577,1380000,MOA - PASAY,Explorer V6 4x4 3.5L Sport Ecoboost,automatic,gas,90000
+40,Ford,"Fiesta 1.5 Trend, A/T, GAS",2017,30T,Winning Blue,FAC 4260,309000,MOA - PASAY,Fiesta 1.5 Trend,automatic,gas,30000
+41,Ford,"Fiesta 5DR MID 1.5L, A/T, Gas",2018,38T,Red Candy,CS# C1 P165 (WITHOUT PLATES),373000,MOA - PASAY,Fiesta 5DR MID 1.5L,automatic,gas,38000
+42,Ford,"Ranger FX4 4x2 2.2L, A/T, DSL",2018,147T,Absolute Black,BAA 2440,714000,"Gateway Bus Park, Gen. Trias, Cavite",Ranger FX4 4x2 2.2L,automatic,dsl,147000
+43,Ford,"Ranger FX4 4x2 2.2L, A/T, DSL",2021,121T,True Red,DAT 8071,986000,"Gateway Bus Park, Gen. Trias, Cavite",Ranger FX4 4x2 2.2L,automatic,dsl,121000
+44,Ford,"Ranger FX4 4x2 2.2L, A/T, DSL",2022,87T,Meteor Gray,IAD 4950,1023000,MOA - PASAY,Ranger FX4 4x2 2.2L,automatic,dsl,87000
+45,Ford,"Ranger FX4 4x2 2.2L, A/T, DSL - Upgraded",2017,133T,Jet Black,NAQ 7545,698000,MOA - PASAY,Ranger FX4 4x2 2.2L,automatic,dsl,133000
+46,Ford,"Ranger FX4 4x2 2.2L, M/T, DSL",2018,104T (per checklist),Cool White,KAB 8078,639000,Cagayan de Oro,Ranger FX4 4x2 2.2L,manual,dsl,104000
+47,Ford,"Ranger Raptor 4x4 2.0, A/T, DSL",2019,27T,Arctic White,DAL 1486,1257000,"Howmart, QC",Ranger Raptor 4x4 2.0,automatic,dsl,27000
+48,Ford,"Ranger Raptor 4x4 2.0, A/T, DSL",2019,52T,Absolute Black,DAN 2648,1193000,"Gateway Bus Park, Gen. Trias, Cavite",Ranger Raptor 4x4 2.0,automatic,dsl,52000
+49,Ford,"Ranger Raptor 4x4 2.0, A/T, DSL",2020,38T,Conquer Gray,NDM 1222,1577000,MOA - PASAY,Ranger Raptor 4x4 2.0,automatic,dsl,38000
+50,Ford,"Ranger Raptor 4x4 2.0, A/T, DSL",2022,46T,Conquer Grey,NFJ 2396,1683000,MOA - PASAY,Ranger Raptor 4x4 2.0,automatic,dsl,46000
+51,Ford,"Ranger Raptor 4x4 2.0L, A/T, DSL",2019,24T,Arctic White,FAE 9782,1417000,"Bolilao, Iloilo",Ranger Raptor 4x4 2.0L,automatic,dsl,24000
+52,Ford,"Ranger Raptor 4x4 2.0L, A/T, DSL",2019,102T,True Red,LAF 2298,1385000,Panabo City,Ranger Raptor 4x4 2.0L,automatic,dsl,102000
+53,Ford,"Ranger Raptor 4x4 2.0L, A/T, DSL",2020,64T (per checklist),Conquer Gray,GAN 1399,1518000,Bacolod,Ranger Raptor 4x4 2.0L,automatic,dsl,64000
+54,Ford,"Ranger Raptor 4x4 2.0L, A/T, DSL",2020,42T,Absolute Black,NGK 4186,1513000,"Howmart, QC",Ranger Raptor 4x4 2.0L,automatic,dsl,42000
+55,Ford,"Ranger Raptor 4x4 2.0L, A/T, DSL",2020,57T,Absolute Black,FAL 6996,1539000,Bacolod,Ranger Raptor 4x4 2.0L,automatic,dsl,57000
+56,Ford,"Ranger Raptor 4x4 2.0L, A/T, DSL",2020,67T,Absolute Black,LAI 4124,1518000,Panabo City,Ranger Raptor 4x4 2.0L,automatic,dsl,67000
+57,Ford,"Ranger Wildtrak 4x2 2.0, M/T, DSL",2019,24T (per checklist),Absolute Black,NDK 5923,906000,"Howmart, QC",Ranger Wildtrak 4x2 2.0,manual,dsl,24000
+58,Ford,"Ranger Wildtrak 4x2 2.0, M/T, DSL",2019,47T,Meteor Gray,DAJ 9266,863000,"Gateway Bus Park, Gen. Trias, Cavite",Ranger Wildtrak 4x2 2.0,manual,dsl,47000
+59,Ford,"Ranger Wildtrak 4x2 2.0, M/T, DSL",2019,51T,Aluminum Metallic,NBH 2956,826000,"Bolilao, Iloilo",Ranger Wildtrak 4x2 2.0,manual,dsl,51000
+60,Ford,"Ranger Wildtrak 4x2 2.0L, M/T, DSL",2019,65T,Absolute Black,FAN 4168,821000,"Bolilao, Iloilo",Ranger Wildtrak 4x2 2.0L,manual,dsl,65000
+61,Ford,"Ranger Wildtrak 4x2 2.2, M/T, DSL",2018,35T,Pride Orange,NCV 7887,783000,"Gateway Bus Park, Gen. Trias, Cavite",Ranger Wildtrak 4x2 2.2,manual,dsl,35000
+62,Ford,"Ranger Wildtrak 4x2 2.2L, A/T, DSL",2018,74T,Pride Orange,DAH 7413,821000,"Gateway Bus Park, Gen. Trias, Cavite",Ranger Wildtrak 4x2 2.2L,automatic,dsl,74000
+63,Ford,"Ranger Wildtrak 4x4 2.0, A/T, DSL",2020,11T,Meteor Gray,NEJ 7401 (CRE) /                          NGJ 3153 (ACTUAL),1172000,"Gateway Bus Park, Gen. Trias, Cavite",Ranger Wildtrak 4x4 2.0,automatic,dsl,11000
+64,Ford,"Ranger Wildtrak 4x4 2.0, A/T, DSL",2020,27T,Aluminum Metallic,NEG 7042,1050000,MOA - PASAY,Ranger Wildtrak 4x4 2.0,automatic,dsl,27000
+65,Ford,"Ranger Wildtrak 4x4 2.0L, A/T, DSL",2020,36T,Saber,NGG 3418,1145000,MOA - PASAY,Ranger Wildtrak 4x4 2.0L,automatic,dsl,36000
+66,Ford,"Ranger Wildtrak 4x4 2.2, A/T, DSL",2018,61T,Pride Orange,NAI 6243,884000,"Howmart, QC",Ranger Wildtrak 4x4 2.2,automatic,dsl,61000
+67,Ford,"Ranger Wildtrak Bi-Turbo 4x4 2.0, A/T, DSL",2020,121T,Aluminum Metallic,KAD 8667,991000,Cagayan de Oro,Ranger Wildtrak Bi-Turbo 4x4 2.0,automatic,dsl,121000
+68,Ford,"Ranger Wildtrak DBL 4x4 2.2L, M/T, DSL",2016,115T,Black Mica,ACX 2038   (CRE)            YCX 2038 (ACTUAL),639000,"Howmart, QC",Ranger Wildtrak DBL 4x4 2.2L,manual,dsl,115000
+69,Ford,"Ranger XLS 4x2 2.2, M/T, DSL",2020,86T,Arctic White,NGF 2403,735000,MOA - PASAY,Ranger XLS 4x2 2.2,manual,dsl,86000
+70,Ford,"Ranger XLS 4x2 2.2L, M/T, DSL",2022,30T,Absolute Black,IAE 1764,959000,"Gateway Bus Park, Gen. Trias, Cavite",Ranger XLS 4x2 2.2L,manual,dsl,30000
+71,Ford,"Ranger XLT 4x2 2.2, A/T, DSL",2020,26T,Arctic White,FAG 5330 (CRE)                                       / CS# C2 Q452 (WITHOUT PLATES),884000,"Bolilao, Iloilo",Ranger XLT 4x2 2.2,automatic,dsl,26000
+72,Ford,"Ranger XLT 4x2 2.2, M/T, DSL",2016,99T (per checklist),Cool White,KDO 6923,522000,Cagayan de Oro,Ranger XLT 4x2 2.2,manual,dsl,99000
+73,Ford,"Ranger XLT 4x2 2.2L, A/T, DSL",2018,78T,Cool White,CS# C1 I909 (WITHOUT PLATES),719000,"Bolilao, Iloilo",Ranger XLT 4x2 2.2L,automatic,dsl,78000
+74,Ford,"Ranger XLT 4x2 2.2L, A/T, DSL",2022,77T,Arctic White,NEQ 2328,1076000,"Howmart, QC",Ranger XLT 4x2 2.2L,automatic,dsl,77000
+75,Ford,"Ranger XLT 4x2 2.2L, M/T, DSL",2015,237T (per checklist),Cool White,ANA 5729,410000,Cagayan de Oro,Ranger XLT 4x2 2.2L,manual,dsl,237000
+76,Ford,"Ranger XLT 4x2 2.2L, M/T, DSL",2016,170T,Aluminum Metallic,ADI 8404      (CRE)            CDI 8404  (ACTUAL),533000,MOA - PASAY,Ranger XLT 4x2 2.2L,manual,dsl,170000
+77,Ford,"Territory 1.5L Ecoboost Titanium+ CVT, A/T, DSL",2022,11T,Ruby Red,NEQ 1496,959000,MOA - PASAY,Territory 1.5L Ecoboost Titanium+ CVT,automatic,dsl,11000
+78,Ford,"Territory Ecoboost Trend 1.5, A/T, GAS",2021,41T,Star White,NGK 6821,863000,MOA - PASAY,Territory Ecoboost Trend 1.5,automatic,gas,41000
+79,Foton,"Gratour Mini Van 1.2L, M/T, Gas",2018,57T (per checklist),White,FAD 5922,134000,"Bolilao, Iloilo",Gratour Mini Van 1.2L,manual,gas,57000
+80,Foton,"Gratour TM MPV Single AC 1.5L, M/T, Gas",2019,52T,White,NEH 4994,315000,"Howmart, QC",Gratour TM MPV Single AC 1.5L,manual,gas,52000
+81,Foton,"Gratour TM, M/T, GAS",2019,23T,White,MAL 6580,325000,Panabo City,Gratour TM,manual,gas,23000
+82,Foton,"Tornado 2E E4 2.8L, M/T, DSL",2019,54T,White,CAY 7078    CS# I0 F112 (WITHOUT PLATES),565000,"Howmart, QC",Tornado 2E E4 2.8L,manual,dsl,54000
+83,Foton,"Tornado 4.4C Stake w/ Canopy, M/T, DSL",2019,81T,White,NEF 1002,480000,"Gateway Bus Park, Gen. Trias, Cavite",Tornado 4.4C Stake w/ Canopy,manual,dsl,81000
+84,Foton,"Tornado C 4.4 6WH, M/T, DSL",2019,26T (per checklist),White,JAC 8647,426000,Cagayan de Oro,Tornado C 4.4 6WH,manual,dsl,26000
+85,Geely,"Coolray Sport SE 1.5, A/T, GAS",2022,11T,Red,NIE 7015,948000,MOA - PASAY,Coolray Sport SE 1.5,automatic,gas,11000
+86,Geely,"Coolray SX11 GF 1.5, A/T, GAS",2020,46T,Red,NFX 9685,746000,"Taguig, Fort Victoria",Coolray SX11 GF 1.5,automatic,gas,46000
+87,Geely,"Emgrand Premium 1.5L, A/T, Gas",2022,20T,Grey,FAJ 3778,703000,"Bolilao, Iloilo",Emgrand Premium 1.5L,automatic,gas,20000
+88,Geely,"Okavango Urvan Plus 1.5L, A/T, Gas",2022,12T,Grey,NFJ 8708,1172000,"Howmart, QC",Okavango Urvan Plus 1.5L,automatic,gas,12000
+89,Honda,"BR-V 1.5 S CVT, A/T, GAS",2020,20T,Modern Steel Metallic,NFW 9733 (CRE) /                         CS# E2 A339 (WITHOUT PLATES),735000,"Taguig, Fort Victoria",BR-V 1.5 S CVT,automatic,gas,20000
+90,Honda,"BR-V 1.5 V NAVI CVT, A/T, GAS",2020,44T,Platinum White Pearl,FAG 7229,773000,Bacolod,BR-V 1.5 V NAVI CVT,automatic,gas,44000
+91,Honda,"Brio 1.2 S, M/T, GAS",2019,5T (per checklist),Modern Steel Metallic,JAD 6941,395000,Cagayan de Oro,Brio 1.2 S,manual,gas,5000
+92,Honda,"Brio 1.2 S, M/T, GAS",2019,14T,Modern Steel Metallic,NDM 3820,490000,"Howmart, QC",Brio 1.2 S,manual,gas,14000
+93,Honda,"City 1.5 E CVT, A/T, GAS",2018,36T (per checklist),Taffeta White,CS# E0 G243 (WITHOUT PLATES),512000,"Howmart, QC",City 1.5 E CVT,automatic,gas,36000
+94,Honda,"City 1.5 E CVT, A/T, GAS",2019,61T,Taffeta White,CS# E1 I003 (WITHOUT PLATES),565000,"Howmart, QC",City 1.5 E CVT,automatic,gas,61000
+95,Honda,"City 1.5 E, M/T, GAS",2019,25T,Crystal Black Pearl,NBO 4616,533000,MOA - PASAY,City 1.5 E,manual,gas,25000
+96,Honda,"City 1.5 VX CVT, A/T, GAS",2016,27T,Crystal Black,AEB 2992 (VIRTUAL PLATE),490000,"Gateway Bus Park, Gen. Trias, Cavite",City 1.5 VX CVT,automatic,gas,27000
+97,Honda,"Civic 1.5 RS Turbo CVT, A.T, Gas",2018,10T,White Orchid Pearl,NDN 3915    CS# E1 Q945 (WITHOUT PLATES),980000,"Howmart, QC",Civic 1.5 RS Turbo CVT,automatic,gas,10000
+98,Honda,"Dream, A/T, GAS",1999,Defective Odometer,Red,LL2012,4000,BDONB San Isidro,Dream,automatic,gas,0
+99,Honda,"Jazz 1.5 VX CVT, A/T, GAS",2016,48T,Modern Steel,AEC 7017 (CRE) /                      GEC 7017 (ACTUAL),576000,Cebu,Jazz 1.5 VX CVT,automatic,gas,48000
+100,Honda,"XL 125, M/T, GAS",2001,Defective Odometer,Black,LS6814,4000,BDONB Bayugan,XL 125,manual,gas,0
+101,Honda,"XRM 110, A/T, GAS",2002,Defective Odometer,Red,MH2451,5000,BDONB Iligan,XRM 110,automatic,gas,0
+102,Honda,"XRM 110, A/T, GAS",2003,Defective Odometer,Red,YB5998,5000,BDONB San Isidro,XRM 110,automatic,gas,0
+103,Honda,"XRM 110, A/T, GAS",2004,Defective Odometer,Blue,KP2921,5000,BDONB Bayugan,XRM 110,automatic,gas,0
+104,Hyundai,"Accent 1.4 GL, A/T, Gas",2021,31T,Silver,CAW 3851,448000,MOA - PASAY,Accent 1.4 GL,automatic,gas,31000
+105,Hyundai,"Accent 1.6 GL CRDI, A/T, DSL",2020,66T,Sleek Silver,FAL 4390 (WITHOUT PLATES),490000,Bacolod,Accent 1.6 GL CRDI,automatic,dsl,66000
+106,Hyundai,"Elantra 1.6 GL, M/T, GAS",2018,29T,Fiery Red,GAJ 1126,320000,Bacolod,Elantra 1.6 GL,manual,gas,29000
+107,Hyundai,"Grand Starex 2.5 GL 2 Str, M/T, DSL",2017,156T,Creamy White,NAM 4394,480000,MOA - PASAY,Grand Starex 2.5 GL 2 Str,manual,dsl,156000
+108,Hyundai,"Grand Starex GL TCI 2.5, M/T, DSL",2018,129T,Hyper Metallic,NAZ 5064,618000,"Gateway Bus Park, Gen. Trias, Cavite",Grand Starex GL TCI 2.5,manual,dsl,129000
+109,Hyundai,"H-100 2.5 CRDI GL dual AC, M/T, DSL",2019,69T,Creamy White,NEJ 2358,554000,"Howmart, QC",H-100 2.5 CRDI GL dual AC,manual,dsl,69000
+110,Hyundai,"H-100 2.5 CRDI GL Shuttle Body with dual AC, M/T, DSL",2020,25T,Creamy White,NFW 3990,629000,"Gateway Bus Park, Gen. Trias, Cavite",H-100 2.5 CRDI GL Shuttle Body with dual AC,manual,dsl,25000
+111,Hyundai,"H-100 2.5 CRDI GL Shuttle Body with dual AC, M/T, DSL",2020,52T,Creamy White,NEU 8746,576000,"Howmart, QC",H-100 2.5 CRDI GL Shuttle Body with dual AC,manual,dsl,52000
+112,Hyundai,"H-100 2.5 CRDI GL Shuttle Body with dual AC, M/T, DSL (For Hire)",2020,98T,Creamy White,NGF 1997,517000,"Gateway Bus Park, Gen. Trias, Cavite",H-100 2.5 CRDI GL Shuttle Body with dual AC,manual,dsl,98000
+113,Hyundai,"H-100 2.5 CRDI GL Shuttle w/ Dual A/C, M/T, DSL",2020,11T (per checklist),Creamy White,NGD 9522,661000,"Taguig, Fort Victoria",H-100 2.5 CRDI GL Shuttle w/ Dual A/C,manual,dsl,11000
+114,Hyundai,"H-100 2.5 CRDI GL Shuttle w/ Dual A/C, M/T, DSL",2020,30T,Creamy White,NFW 8547 (VIRTUAL PLATES),629000,"Gateway Bus Park, Gen. Trias, Cavite",H-100 2.5 CRDI GL Shuttle w/ Dual A/C,manual,dsl,30000
+115,Hyundai,"H-100 2.5 CRDI GL Shuttle w/ Dual A/C, M/T, DSL (For Hire)",2019,36T,Creamy White,CAS 6656,501000,"Howmart, QC",H-100 2.5 CRDI GL Shuttle w/ Dual A/C,manual,dsl,36000
+116,Hyundai,"H-100 2.5 CRDI GL with Dual A/C, M/T, DSL",2019,209T,Creamy White,NBD 1068,426000,MOA - PASAY,H-100 2.5 CRDI GL with Dual A/C,manual,dsl,209000
+117,Hyundai,"H-100 2.5 CRDI GL with dual AC, M/T, DSL",2020,75T,Creamy White,NGD 4739,613000,MOA - PASAY,H-100 2.5 CRDI GL with dual AC,manual,dsl,75000
+118,Hyundai,"H-100 2.5 GL CRDI Shuttle Body with dual AC, M/T, DSL",2019,51T,Creamy White,NED 8012,565000,"Gateway Bus Park, Gen. Trias, Cavite",H-100 2.5 GL CRDI Shuttle Body with dual AC,manual,dsl,51000
+119,Hyundai,"H-100 2.5 GL CRDI Shuttle Body with dual AC, M/T, DSL",2019,138T,Creamy White,NBO 2409,506000,"Gateway Bus Park, Gen. Trias, Cavite",H-100 2.5 GL CRDI Shuttle Body with dual AC,manual,dsl,138000
+120,Hyundai,"H-100 2.6 GL Shuttle Body with dual AC, M/T, DSL",2016,72T,Creamy White,NDZ 3164 (VIRTUAL PLATES),395000,"Gateway Bus Park, Gen. Trias, Cavite",H-100 2.6 GL Shuttle Body with dual AC,manual,dsl,72000
+121,Hyundai,"H-100 2.6 GL Shuttle Body with dual AC, M/T, DSL",2016,92T,Creamy White,ADM 8157 (OR/CR)        FDM 8157 (ACTUAL),357000,"Howmart, QC",H-100 2.6 GL Shuttle Body with dual AC,manual,dsl,92000
+122,Hyundai,"H-100 CRDI GL Dual A/C 2.5, M/T, DSL",2020,256T (per checklist),Creamy White,NDM 2566,426000,"Gateway Bus Park, Gen. Trias, Cavite",H-100 CRDI GL Dual A/C 2.5,manual,dsl,256000
+123,Hyundai,"H-100 GL Aluminum Van with Front A/C, M/T, DSL",2019,41T,Creamy White,NDK 3734,639000,"Howmart, QC",H-100 GL Aluminum Van with Front A/C,manual,dsl,41000
+124,Hyundai,"H-100 Panoramic 2.6L with dual AC, M/T, DSL",2015,63T,Creamy White,ABG 5997,480000,"Taguig, Fort Victoria",H-100 Panoramic 2.6L with dual AC,manual,dsl,63000
+125,Hyundai,"H350 2.5L DLX 14 Str, M/T, DSL",2018,45T,Blue,NBQ 1895,1598000,QC,H350 2.5L DLX 14 Str,manual,dsl,45000
+126,Hyundai,"H350 DLX 2.5L, M/T, DSL",2018,46T,Blue,NEB 5829,1635000,"Howmart, QC",H350 DLX 2.5L,manual,dsl,46000
+127,Hyundai,"Kona 2.0 GLS, A/T, Gas",2019,100T,Red,CS# K0 T478 (WITHOUT PLATES),480000,"Bolilao, Iloilo",Kona 2.0 GLS,automatic,gas,100000
+128,Hyundai,"Kona 2.0 GLS, A/T, Gas",2020,29T,Green (OR & actual)        Acid Yellow (PN/CHM),CS# K1 N202 (WITHOUT PLATES),602000,"Gateway Bus Park, Gen. Trias, Cavite",Kona 2.0 GLS,automatic,gas,29000
+129,Hyundai,"Kona 2.0 GLS, A/T, GAS",2020,73T,Green (CRE)                / Acid Yellow (PNCHM),NEC 2267,565000,MOA - PASAY,Kona 2.0 GLS,automatic,gas,73000
+130,Hyundai,"Reina 1.4 GL, A/T, Gas",2020,71T,Red,GAN 7718,304000,Cebu,Reina 1.4 GL,automatic,gas,71000
+131,Hyundai,"Reina 1.4 GL, M/T GAS",2020,11T (per checklist),Glowing Silver,NGD 7538 (CRE) /                      CS# K1 R417 (WITHOUT PLATES),352000,"Gateway Bus Park, Gen. Trias, Cavite",Reina 1.4 GL,manual,,11000
+132,Hyundai,"Reina 1.4 GL, M/T, DSL",2020,17T,Blue Passion,ZAB 7714,347000,Cagayan de Oro,Reina 1.4 GL,manual,dsl,17000
+133,Hyundai,"Reina 1.4 GL, M/T, GAS",2020,53T,Midnight Black,ZAB 4677,224000,Panabo City,Reina 1.4 GL,manual,gas,53000
+134,Hyundai,"Santa Fe 2.2 CRDI GLS, A/T, DSL",2019,36T,Phantom Black,NDK 3723,1278000,"Gateway Bus Park, Gen. Trias, Cavite",Santa Fe 2.2 CRDI GLS,automatic,dsl,36000
+135,Hyundai,"Tucson 2.0 GL 2WD, A/T, GAS",2018,70T (per checklist),White,ZAA 7663,602000,Cagayan de Oro,Tucson 2.0 GL 2WD,automatic,gas,70000
+136,Hyundai,"Tucson 2.0 GL 2WD, A/T, Gas",2018,37T,Black,NFW 9557,671000,"Gateway Bus Park, Gen. Trias, Cavite",Tucson 2.0 GL 2WD,automatic,gas,37000
+137,Hyundai,"Tucson 2.0 GL 2WD, M/T, GAS",2019,48T,Phantom Black,ZAB 9457,629000,Cagayan de Oro,Tucson 2.0 GL 2WD,manual,gas,48000
+138,Isuzu,"D-max Flexiqube Single Cab 2.5L, M/T, DSL",2016,33T,White,FAA 7715,485000,Bacolod,D-max Flexiqube Single Cab 2.5L,manual,dsl,33000
+139,Isuzu,"D-Max LS 4x2 3.0, M/T, DSL",2019,31T,Sapphire Blue,CAT 3212 (CRE) /                             CS# D1 I154 (WITHOUT PLATES),821000,"Gateway Bus Park, Gen. Trias, Cavite",D-Max LS 4x2 3.0,manual,dsl,31000
+140,Isuzu,"D-Max LS 4x2 3.0, M/T, DSL",2019,91T,Titanium Silver,NEU 7173,757000,Bulacan,D-Max LS 4x2 3.0,manual,dsl,91000
+141,Isuzu,"D-Max LS 4x4 3.0L, A/T, DSL",2015,168T,Garnet Red,CS# CM4031 (WITHOUT PLATES),655000,"Bolilao, Iloilo",D-Max LS 4x4 3.0L,automatic,dsl,168000
+142,Isuzu,"D-Max RZ4E LS 4x2, A/T, DSL",2021,30T,Splash White,BAE 8191,1002000,MOA - PASAY,D-Max RZ4E LS 4x2,automatic,dsl,30000
+143,Isuzu,"MU-X LS-A 4x2 3.0L, A/T, DSL",2016,252T,Splash White,ACU 5801   (CRE)             KCU 5801 (ACTUAL),613000,Panabo City,MU-X LS-A 4x2 3.0L,automatic,dsl,252000
+144,Isuzu,"MU-X LS-A 4x2 3.0L, A/T, DSL",2018,57T,Obsidian Gray Mica,FAC 5207,980000,"Bolilao, Iloilo",MU-X LS-A 4x2 3.0L,automatic,dsl,57000
+145,Isuzu,"MU-X RZ4E LS-A 4x2 Blue Power, M/T, DSL",2018,82T (per checklist),Silky Pearl White,KAC 2391,922000,Panabo City,MU-X RZ4E LS-A 4x2 Blue Power,manual,dsl,82000
+146,Isuzu,"NHR i-Van 18-Str, M/T, DSL",2016,255T (per checklist),Arc White,ACL 6788 (CRE) /                           CS# CP 5037 (WITHOUT PLATES),373000,"Howmart, QC",NHR i-Van 18-Str,manual,dsl,255000
+147,Isuzu,"QKR77-Tilt 3.0L Flexi Body with dual AC, M/T, DSL",2020,40T,Arc White,NGB 6982,916000,"Howmart, QC",QKR77-Tilt 3.0L Flexi Body with dual AC,manual,dsl,40000
+148,Isuzu,"Traviz L Utility Van w/ Dual A/C , M/T, DSL",2022,30T,Arc White,NEQ 9334,884000,MOA - PASAY,Traviz L Utility Van w/ Dual A/C ,manual,dsl,30000
+149,Isuzu,"Traviz S Light Weight Truck Utility Van w/ Dual AC, M/T, DSL",2022,21T,Arc White,NEQ 9235,884000,MOA - PASAY,Traviz S Light Weight Truck Utility Van w/ Dual AC,manual,dsl,21000
+150,JMC,"Transporter Van 15 Str 2.8L, M/T, DSL",2020,88T,White,NEV 7437,730000,"Gateway Bus Park, Gen. Trias, Cavite",Transporter Van 15 Str 2.8L,manual,dsl,88000
+151,Kia,"K2500 4x2 2.5 Panoramic with dual AC, M/T, DSL",2021,43T,White,FAI 2755      CS# X0 I927 (WITHOUT PLATES),762000,"Bolilao, Iloilo",K2500 4x2 2.5 Panoramic with dual AC,manual,dsl,43000
+152,Kia,"K2500 Kargo Panoramic Front A/C 4x2, M/T, DSL",2019,97T,Clear White,NFY 6077,554000,"Howmart, QC",K2500 Kargo Panoramic Front A/C 4x2,manual,dsl,97000
+153,Kia,"K2500 Panoramic w/ Dual A/C 4x2 2.5, M/T, DSL",2018,111T,Clear White,NAZ 3654,490000,MOA - PASAY,K2500 Panoramic w/ Dual A/C 4x2 2.5,manual,dsl,111000
+154,Kia,"Soluto 1.4 LX, A/T, GAS",2020,33T,Clear White,NGP 9313,405000,"Bolilao, Iloilo",Soluto 1.4 LX,automatic,gas,33000
+155,Lexus,"RX 350 3.5L V6 F-Sport, A/T, Gas",2018,77T,White,CS# A4 U697 (WITHOUT PLATES),3195000,"Howmart, QC",RX 350 3.5L V6 F-Sport,automatic,gas,77000
+156,Maxus,"G10 1.9L, A/T, DSL",2019,62T,Black,NDL 6520,735000,MOA - PASAY,G10 1.9L,automatic,dsl,62000
+157,Mazda,"3 Sedan 1.5L Skyactiv, A/T, Gas",2019,66T (per chekclist),Eternal Blue,CAQ 2114,586000,"Howmart, QC",3 Sedan 1.5L Skyactiv,automatic,gas,66000
+158,Mazda,"3 V 1.5 Skyactiv Hatchback, A/T, GAS",2018,41T,Jet Black,NBA 3299,597000,MOA - PASAY,3 V 1.5 Skyactiv Hatchback,automatic,gas,41000
+159,Mazda,"3 V Sedan 1.5 Skyactiv, A/T, GAS",2018,33T,Sonic Silver,NBE 4842,639000,MOA - PASAY,3 V Sedan 1.5 Skyactiv,automatic,gas,33000
+160,Mazda,"BT-50 4x2 2.2, M/T, DSL",2019,102T,True Red,ZAA 9950,597000,Panabo City,BT-50 4x2 2.2,manual,dsl,102000
+161,Mazda,"BT-50 4x4 3.2, A/T, DSL",2020,121T,Aluminum Metallic,ZAB 4717,858000,Panabo City,BT-50 4x4 3.2,automatic,dsl,121000
+162,Mazda,"BT-50 4x4 3.2L, A/T, DSL",2019,84T,Aluminum Metallic,ZAB 5824,799000,Panabo City,BT-50 4x4 3.2L,automatic,dsl,84000
+163,Mazda,"CX-5 2.2L, A/T, DSL",2019,63T,Deep Crystal Blue,CAR 8307,1199000,MOA - PASAY,CX-5 2.2L,automatic,dsl,63000
+164,Mercedes-Benz,"C200 CGI Avantgarde 1.8L, A/T, Gas",2012,21T,Iridium Silver,UQQ 268,906000,"Howmart, QC",C200 CGI Avantgarde 1.8L,automatic,gas,21000
+165,Mercedes-Benz,"C250 AMG, A/T, GAS",2016,21T,Diamond White,NCJ 7080,2056000,MOA - PASAY,C250 AMG,automatic,gas,21000
+166,Mercedes-Benz,"C250 Coupe, A/T, GAS",2016,43T,Obsidian Black,CS# GS 2400 (WITHOUT PLATES),2024000,"Howmart, QC",C250 Coupe,automatic,gas,43000
+167,Mercedes-Benz,"GLC 200 Exclusive 2.0L, A/T, Gas",2019,94T,Obsidian Black,NFT 8110        CS# MO C546 (WITHOUT PLATES),2924000,"Gateway Bus Park, Gen. Trias, Cavite",GLC 200 Exclusive 2.0L,automatic,gas,94000
+168,MG,"5 Alpha 1.5, A/T, GAS",2022,6T (per checklist),White,NII 3780 (CRE) /  CS# W0 U926 (WITHOUT PLATES),661000,MOA - PASAY,5 Alpha 1.5,automatic,gas,6000
+169,MG,"5 Alpha 1.5L, A/T, Gas",2020,15T,Red,GAU 1868,592000,Bacolod,5 Alpha 1.5L,automatic,gas,15000
+170,MG,"5 Core 1.5, A/T, GAS",2020,32T,Black,FAG 7431,469000,"Howmart, QC",5 Core 1.5,automatic,gas,32000
+171,MG,"5 Core, A/T, GAS",2021,46T,Black,MAN 3483,517000,Panabo City,5 Core,automatic,gas,46000
+172,MG,"5 Style 1.5, A/T, GAS",2021,34T,White,MAU 4693,544000,MOA - PASAY,5 Style 1.5,automatic,gas,34000
+173,MG,"5 Style 1.5, A/T, GAS",2022,17T,Silver,NFG 3731,639000,MOA - PASAY,5 Style 1.5,automatic,gas,17000
+174,MG,"5 Style 1.5L, A/T, Gas",2021,16T,Black,MAN 3482,570000,Panabo City,5 Style 1.5L,automatic,gas,16000
+175,MG,"6 Trophy 1.5L, A/T, Gas",2019,5T,Pearl White,FAF 1452,586000,"Howmart, QC",6 Trophy 1.5L,automatic,gas,5000
+176,MG,"RX5 Alpha, A/T, GAS",2020,28T,White,NFN 6985 (CRE) /                   CS# W0 I948 (WITHOUT PLATES),602000,MOA - PASAY,RX5 Alpha,automatic,gas,28000
+177,MG,"RX5 Style 1.5, A/T, GAS",2019,28T,Pearl Black,NGG 4200 (CRE) /                     CS# W0 D859 (WITHOUT PLATES),570000,MOA - PASAY,RX5 Style 1.5,automatic,gas,28000
+178,MG,"ZS 1.5 Alpha, A/T, Gas",2019,43T,Red,NED 9097,512000,"Gateway Bus Park, Gen. Trias, Cavite",ZS 1.5 Alpha,automatic,gas,43000
+179,MG,"ZS 1.5 Alpha, A/T, Gas",2020,57T (per checklist),Red,NGJ 5069,549000,MOA - PASAY,ZS 1.5 Alpha,automatic,gas,57000
+180,MG,"ZS 1.5 Alpha, A/T, Gas",2020,12T,Laser Blue,NGJ 9316,597000,"Taguig, Fort Victoria",ZS 1.5 Alpha,automatic,gas,12000
+181,MG,"ZS 1.5 Alpha, A/T, Gas",2021,27T,Black,NFD 3031,639000,MOA - PASAY,ZS 1.5 Alpha,automatic,gas,27000
+182,MG,"ZS 1.5 Alpha, A/T, Gas",2022,20T,White,NFG 1242,693000,"Gateway Bus Park, Gen. Trias, Cavite",ZS 1.5 Alpha,automatic,gas,20000
+183,MG,"ZS 1.5 Style, A/T, Gas",2020,56T,Black,NFN 7843,554000,"Gateway Bus Park, Gen. Trias, Cavite",ZS 1.5 Style,automatic,gas,56000
+184,MG,"ZS Alpha 1.5, A/T, GAS",2020,39T,Meteorite Black,NGD 5381,586000,MOA - PASAY,ZS Alpha 1.5,automatic,gas,39000
+185,MG,"ZS Alpha 1.5L, A/T, Gas",2020,102T,Red,NGJ 5060,512000,"Gateway Bus Park, Gen. Trias, Cavite",ZS Alpha 1.5L,automatic,gas,102000
+186,MG,"ZS Alpha, A/T, GAS",2020,11T,Meteorite Black,NGN 5827,608000,MOA - PASAY,ZS Alpha,automatic,gas,11000
+187,MG,"ZS Style 1.5, A/T, GAS",2019,31T,Red,FAE 7760,469000,Bacolod,ZS Style 1.5,automatic,gas,31000
+188,MG,"ZS Style 1.5, A/T, GAS",2019,45T,Laser Blue,FAG 6354,474000,"Bolilao, Iloilo",ZS Style 1.5,automatic,gas,45000
+189,MG,"ZS Style, M/T, GAS",2021,32T,Meteorite Black,NEL 7045,554000,MOA - PASAY,ZS Style,manual,gas,32000
+190,Mitsubishi,"Adventure GLS Sport 2.5L, M/T, DSL",2017,124T,Polar White,NAV 9587   CS# B0 I985 (WITHOUT PLATES),373000,"Gateway Bus Park, Gen. Trias, Cavite",Adventure GLS Sport 2.5L,manual,dsl,124000
+191,Mitsubishi,"L300 C/C 2.2 with Dual A/C, M/T, DSL",2022,47T,Polar White,NGY 7203,709000,MOA - PASAY,L300 C/C 2.2 with Dual A/C,manual,dsl,47000
+192,Mitsubishi,"L300 C/C 2.2 with Dual A/C, M/T, DSL",2022,48T,Polar White,NGK 7094,730000,MOA - PASAY,L300 C/C 2.2 with Dual A/C,manual,dsl,48000
+193,Mitsubishi,"L300 C/C 2.2D Dual A/C, M/T, DSL",2020,94T,Polar White,DBA 3132,538000,MOA - PASAY,L300 C/C 2.2D Dual A/C,manual,dsl,94000
+194,Mitsubishi,"L300 Exceeed C/C Dual A/C,  M/T, DSL (For Hire)",2018,74T,Polar White,NBS 8043,347000,"Gateway Bus Park, Gen. Trias, Cavite",L300 Exceeed C/C Dual A/C,manual,dsl,74000
+195,Mitsubishi,"L300 FB body C/C 2.2D with dual AC, M/T, DSL",2022,52T,Polar White,NGX 5649,735000,"Gateway Bus Park, Gen. Trias, Cavite",L300 FB body C/C 2.2D with dual AC,manual,dsl,52000
+196,Mitsubishi,"L300 FB Body C/C 2.2L M/T, DSL - For Hire",2020,54T,Polar White,NGM 5896,549000,MOA - PASAY,L300 FB Body C/C 2.2L M/T,none,,54000
+197,Mitsubishi,"L300 FB Deluxe 2.5 with Single AC, M/T, DSL",2016,63T,Polar White,FAI 2417 (WITHOUT PLATES AND CONDUCTION STICKER),341000,"Bolilao, Iloilo",L300 FB Deluxe 2.5 with Single AC,manual,dsl,63000
+198,Mitsubishi,"L300 FB Deluxe 2.5L with dual AC, M/T, DSL",2017,44T,Polar White,NCA 5936,400000,MOA - PASAY,L300 FB Deluxe 2.5L with dual AC,manual,dsl,44000
+199,Mitsubishi,"L300 FB Deluxe C/C 2.5L with dual AC, M/T, DSL",2017,126T,Polar White,NCR 8026 (TEMPORARY PLATES),320000,"Howmart, QC",L300 FB Deluxe C/C 2.5L with dual AC,manual,dsl,126000
+200,Mitsubishi,"L300 FB Exceed 2.5 with Dual AC, M/T, DSL - For Hire",2018,77T,Polar White,CAN 3606,395000,MOA - PASAY,L300 FB Exceed 2.5 with Dual AC,manual,dsl,77000
+201,Mitsubishi,"L300 FB Exceed 2.5L with dual AC, M/T, DSL",2017,81T,Polar White,NCR 8108,379000,"Howmart, QC",L300 FB Exceed 2.5L with dual AC,manual,dsl,81000
+202,Mitsubishi,"L300 FB Exceed 2.5L with dual AC, M/T, DSL",2018,103T,Polar White,NAY 3291,464000,"Howmart, QC",L300 FB Exceed 2.5L with dual AC,manual,dsl,103000
+203,Mitsubishi,"L300 FB Exceed dual AC 2.5L, M/T, DSL",2017,179T,Polar White,ACP 8378   (CRE)                DCP 8378 (ACTUAL),363000,MOA - PASAY,L300 FB Exceed dual AC 2.5L,manual,dsl,179000
+204,Mitsubishi,"Mirage G4 GLS, A/T, GAS",2016,136T (per checklist),Medium Blue Mica,NDU 4823,213000,"Howmart, QC",Mirage G4 GLS,automatic,gas,136000
+205,Mitsubishi,"Mirage G4 GLS, A/T, GAS",2019,13T (per checklist),Sundance Orange,FAE 9761,411000,Bacolod,Mirage G4 GLS,automatic,gas,13000
+206,Mitsubishi,"Mirage G4 GLX 1.2L, M/T, Gas",2019,6T,Cool Silver,CS# B6 N524 (WITHOUT PLATES),336000,"Howmart, QC",Mirage G4 GLX 1.2L,manual,gas,6000
+207,Mitsubishi,"Mirage G4 GLX, A/T, GAS",2020,43T,Pyrenese Black,CS# B7 X437 (WITHOUT PLATES),352000,MOA - PASAY,Mirage G4 GLX,automatic,gas,43000
+208,Mitsubishi,"Mirage GLS, A/T, GAS",2017,39T,Savanna White,CS# B0 K808 (WITHOUT PLATES),389000,Binangonan Rizal,Mirage GLS,automatic,gas,39000
+209,Mitsubishi,"Mirage GLX 1.2L, A/T, Gas",2019,7T,Virgil Gray,FAL 7686     CS# B5 R160 (WITHOUT PLATES),384000,Bacolod,Mirage GLX 1.2L,automatic,gas,7000
+210,Mitsubishi,"Mirage GLX CVT, A/T, GAS",2023,46T,Titanium Gray Metallic,FAN 7880 (CRE) /                          CS# Y0 O476 (WITHOUT PLATES),576000,Bacolod,Mirage GLX CVT,automatic,gas,46000
+211,Mitsubishi,"Mirage GLX, A/T, GAS",2023,1T,Titanium Gray Metallic,NIJ 4204,613000,MOA - PASAY,Mirage GLX,automatic,gas,1000
+212,Mitsubishi,"Mirage GLX, M/T, GAS",2018,10T,Wine Red Pearl,FAG 2759,256000,"Bolilao, Iloilo",Mirage GLX,manual,gas,10000
+213,Mitsubishi,"Montero Sport GLS 2WD 2.4, A/T, DSL",2018,116T,Titanium Gray,NEI 8330,970000,MOA - PASAY,Montero Sport GLS 2WD 2.4,automatic,dsl,116000
+214,Mitsubishi,"Montero Sport GLS 2WD 2.4, A/T, DSL",2019,32T,Pearl White,CAS 3357,1028000,"Howmart, QC",Montero Sport GLS 2WD 2.4,automatic,dsl,32000
+215,Mitsubishi,"Montero Sport GLS 4x2 2.4L, A/T, DSL",2018,45T,Titanium Gray,CAQ 2427,1012000,"Gateway Bus Park, Gen. Trias, Cavite",Montero Sport GLS 4x2 2.4L,automatic,dsl,45000
+216,Mitsubishi,"Montero Sport GLS 4x4 2.4L, M/T, DSL",2016,116T,Savanna White,FAD 6617,852000,Bacolod,Montero Sport GLS 4x4 2.4L,manual,dsl,116000
+217,Mitsubishi,"Montero Sport GLS Premium 4x2 2.4, A/T, DSL",2018,113T,Pearl White,GAJ 2872,970000,Bacolod,Montero Sport GLS Premium 4x2 2.4,automatic,dsl,113000
+218,Mitsubishi,"Montero Sport GLX 2.4 2WD, M/T, DSL",2018,40T (per checklist),Matte Black (actual) / Medium Red (OR/PNCHM),EAB 5395,794000,MOA - PASAY,Montero Sport GLX 2.4 2WD,manual,dsl,40000
+219,Mitsubishi,"Montero Sport GLX 2.4 2WD, M/T, DSL",2023,13T,Jet Black Mica,MAS 1555,1300000,Panabo City,Montero Sport GLX 2.4 2WD,manual,dsl,13000
+220,Mitsubishi,"Montero Sport GLX 2WD 2.4, M/T, DSL",2021,31T,Sterling Silver Metallic,CAW 1496,1119000,Bacolod,Montero Sport GLX 2WD 2.4,manual,dsl,31000
+221,Mitsubishi,"Montero Sport GLX 2WD 2.4, M/T, DSL",2022,17T (per checklist),White Diamond,KAF 2677,1193000,Cagayan de Oro,Montero Sport GLX 2WD 2.4,manual,dsl,17000
+222,Mitsubishi,"Montero Sport GLX-V 4x2 2.5, M/T, DSL",2012,143T,Savanna White,UCI 725 (CRE),389000,"Howmart, QC",Montero Sport GLX-V 4x2 2.5,manual,dsl,143000
+223,Mitsubishi,"Montero Sport GT 4WD 2.4, A/T, DSL",2018,82T,Sterling Silver Metallic,NCS 8805,1236000,"Howmart, QC",Montero Sport GT 4WD 2.4,automatic,dsl,82000
+224,Mitsubishi,"Montero Sport GT 4x2 2.4L, A/T, DSL",2021,40T (per checklist),Graphite Gray Metallic,LAH 7204,1619000,Cagayan de Oro,Montero Sport GT 4x2 2.4L,automatic,dsl,40000
+225,Mitsubishi,"Montero Sport GT 4x4 2.4L, A/T, DSL",2018,71T,Sedona Red,CS# B2 F502 (WITHOUT PLATES),1241000,"Gateway Bus Park, Gen. Trias, Cavite",Montero Sport GT 4x4 2.4L,automatic,dsl,71000
+226,Mitsubishi,"Montero Sport GTV 4x4 2.5L, A/T, DSL",2014,100T,Savanna White,WITHOUT PLATES / CONDUCTION STICKER,671000,QC,Montero Sport GTV 4x4 2.5L,automatic,dsl,100000
+227,Mitsubishi,"Strada Athlete 4x2, A/T, DSL",2020,111T,Graphite Gray Metalic,FAL 6325,773000,Bacolod,Strada Athlete 4x2,automatic,dsl,111000
+228,Mitsubishi,"Strada GLS 2.4 2WD, A/T, DSL",2020,64T,Graphite Gray Metallic,DBA 6427,852000,MOA - PASAY,Strada GLS 2.4 2WD,automatic,dsl,64000
+229,Mitsubishi,"Strada GLS 2.4 2WD, M/T, DSL",2020,32T,Jet Black Mica,IAC 8379,783000,"Howmart, QC",Strada GLS 2.4 2WD,manual,dsl,32000
+230,Mitsubishi,"Strada GLS 2WD 2.4, A/T, DSL",2020,8T,Jet Black Mica,NFV 8793 (CRE) /                    CS# B7 K064 (WITHOUT PLATES),895000,"Gateway Bus Park, Gen. Trias, Cavite",Strada GLS 2WD 2.4,automatic,dsl,8000
+231,Mitsubishi,"Strada GLS 2WD 2.4, A/T, DSL",2020,42T,White Diamond,CS# B6 H467 (WITHOUT PLATES),906000,MOA - PASAY,Strada GLS 2WD 2.4,automatic,dsl,42000
+232,Mitsubishi,"Strada GLS 2WD 2.4, A/T, DSL",2021,54T,Jet Black Mica,HAC 1991 (CRE) /                        CS# B9 C738 (WITHOUT PLATES),980000,MOA - PASAY,Strada GLS 2WD 2.4,automatic,dsl,54000
+233,Mitsubishi,"Strada GLX 4x2 2.5L, M/T, DSL",2018,40T,Titanium Gray,ZAB 9396,671000,Cagayan de Oro,Strada GLX 4x2 2.5L,manual,dsl,40000
+234,Mitsubishi,"Xpander GLS Sport 1.5L, A/T, Gas",2019,40T,Red Metallic,NFV 6282     CS# B7 F219 (WITHOUT PLATES),746000,"Howmart, QC",Xpander GLS Sport 1.5L,automatic,gas,40000
+235,Mitsubishi,"Xpander GLS, A/T, GAS",2021,57T,Red Metallic,NFQ 3632,842000,MOA - PASAY,Xpander GLS,automatic,gas,57000
+236,Mitsubishi,"Xpander GLX Plus, A/T, GAS",2019,49T,Sterling Silver Metallic,NFT 6284,629000,"Bolilao, Iloilo",Xpander GLX Plus,automatic,gas,49000
+237,Mitsubishi,"Xpander GLX, M/T, GAS",2020,45T,Jet Black Mica,DAU 2897,618000,MOA - PASAY,Xpander GLX,manual,gas,45000
+238,Nissan,"Almera 1.5 E, A/T, GAS",2019,19T,Titanium Gray,NEA 4647,384000,"Howmart, QC",Almera 1.5 E,automatic,gas,19000
+239,Nissan,"Almera 1.5 E, A/T, GAS",2020,32T,Sapphire Metallic Blue,NFZ 3210,373000,MOA - PASAY,Almera 1.5 E,automatic,gas,32000
+240,Nissan,"Almera Base 1.2L, M/T, Gas",2018,93T (per checklist),Alphine White,CS# F0 S328 (WITHOUT PLATES),240000,Cagayan de Oro,Almera Base 1.2L,manual,gas,93000
+241,Nissan,"Almera Base 1.2L, M/T, Gas",2018,23T,Bluish Black,CS# F1 L244 (WITHOUT PLATES),320000,Panabo City,Almera Base 1.2L,manual,gas,23000
+242,Nissan,"Almera Base 1.2L, M/T, Gas",2020,62T,Lunar Metallic Gray,LAI 8093,288000,Panabo City,Almera Base 1.2L,manual,gas,62000
+243,Nissan,"Almera Base 1.5L, A/T, Gas",2016,22T,Black,ADM 7549  (CRE)           FDM 7549 (ACTUAL),224000,Bacolod,Almera Base 1.5L,automatic,gas,22000
+244,Nissan,"Juke 1.6 N-Style CVT, A/T, Gas",2018,99T,Brilliant Silver,CAM 9792,565000,MOA - PASAY,Juke 1.6 N-Style CVT,automatic,gas,99000
+245,Nissan,"Juke Upper 1.6L CVT, A/T, Gas",2018,60T,Red Alert,YAA 2715,544000,"Howmart, QC",Juke Upper 1.6L CVT,automatic,gas,60000
+246,Nissan,"Navara EL Calibre 4x2 2.5, A/T, DSL",2018,36T,Alpine White,LAD 3392,597000,Panabo City,Navara EL Calibre 4x2 2.5,automatic,dsl,36000
+247,Nissan,"Navara EL Calibre 4x2 2.5, A/T, DSL",2018,80T,Alpine White,GAJ 1752,639000,Cagayan de Oro,Navara EL Calibre 4x2 2.5,automatic,dsl,80000
+248,Nissan,"Navara EL Calibre 4x2 2.5, A/T, DSL",2019,89T,Brilliant Silver,NDJ 6943,773000,MOA - PASAY,Navara EL Calibre 4x2 2.5,automatic,dsl,89000
+249,Nissan,"Navara EL Calibre 4x2 2.5, A/T, DSL",2020,46T (per checklist),Brilliant Silver,FAL 3695,906000,Bacolod,Navara EL Calibre 4x2 2.5,automatic,dsl,46000
+250,Nissan,"Navara EL Calibre 4x2 2.5, M/T, DSL",2019,59T,Brilliant Silver,WITHOUT CONDUCTION STICKER AND PLATES,741000,"Bolilao, Iloilo",Navara EL Calibre 4x2 2.5,manual,dsl,59000
+251,Nissan,"Navara EL Calibre 4x2 2.5, M/T, DSL",2020,106T,Galaxy Black,NGD 8278,778000,MOA - PASAY,Navara EL Calibre 4x2 2.5,manual,dsl,106000
+252,Nissan,"Navara EL Calibre 4x2 2.5, M/T, DSL",2022,14T,Alpine White,GAS 5372 (CRE) /                       CS# F5 C799 (WITHOUT PLATES),927000,Bacolod,Navara EL Calibre 4x2 2.5,manual,dsl,14000
+253,Nissan,"Navara EL Calibre 4x2, M/T, DSL",2019,40T,Brilliant Silver,CAR 7711,671000,MOA - PASAY,Navara EL Calibre 4x2,manual,dsl,40000
+254,Nissan,"Navara NP300 EL Calibre 4x2 2.5L, A/T, DSL",2019,87T (per checklist),Galaxy Black,KAG 7688,448000,Cagayan de Oro,Navara NP300 EL Calibre 4x2 2.5L,automatic,dsl,87000
+255,Nissan,"Navara NP300 EL Calibre 4x2 2.5L, A/T, DSL",2021,30T,Brilliant Silver,NGU 6189,948000,"Gateway Bus Park, Gen. Trias, Cavite",Navara NP300 EL Calibre 4x2 2.5L,automatic,dsl,30000
+256,Nissan,"Navara NP300 EL Calibre SV 4x2 2.5L, A/T, DSL",2019,41T,Aspen White,CS# F2 E036 (WITHOUT PLATES),906000,"Bolilao, Iloilo",Navara NP300 EL Calibre SV 4x2 2.5L,automatic,dsl,41000
+257,Nissan,"Navara NP300 VL 4x4 2.5L, A/T, DSL",2020,86T,Aspen Pearl White,FAF 1862,986000,Bacolod,Navara NP300 VL 4x4 2.5L,automatic,dsl,86000
+258,Nissan,"Navara VE Calibre 4x2 2.5L, A/T, DSL",2021,95T (per checklist),Alphine White,FAI 6987,980000,"Bolilao, Iloilo",Navara VE Calibre 4x2 2.5L,automatic,dsl,95000
+259,Nissan,"Navara VL 4x4, A/T, DSL",2018,156T,Brilliant Silver,CS# F0 I369 (WITHOUT CONDUCTION STICKER),618000,Bacolod,Navara VL 4x4,automatic,dsl,156000
+260,Nissan,"Sylphy B17 1.6L, A/T, Gas",2020,35T,Aspen White,FAI 4149,618000,"Bolilao, Iloilo",Sylphy B17 1.6L,automatic,gas,35000
+261,Nissan,"Terra EL 4x2 2.5, M/T, DSL",2020,12T (per checklist),Brilliant Silver,FAF 1593,1002000,"Bolilao, Iloilo",Terra EL 4x2 2.5,manual,dsl,12000
+262,Nissan,"Terra VE 4x2 2.5, A/T, DSL",2019,34T,Pearl White,NBT 6735,1044000,MOA - PASAY,Terra VE 4x2 2.5,automatic,dsl,34000
+263,Nissan,"Terra VE 4x2 2.5, A/T, DSL",2020,59T (per checklist),Galaxy Black,GAN 8278,1081000,"Bolilao, Iloilo",Terra VE 4x2 2.5,automatic,dsl,59000
+264,Nissan,"Terra VL 4x2 2.5, A/T, DSL",2019,57T,Flare Metallic Gold,NDQ 1342,1188000,"Howmart, QC",Terra VL 4x2 2.5,automatic,dsl,57000
+265,Nissan,"Urvan NV350 15-Seater 2.5, M/T, DSL",2019,110T,Alpine White,NEC 3403,682000,"Gateway Bus Park, Gen. Trias, Cavite",Urvan NV350 15-Seater 2.5,manual,dsl,110000
+266,Nissan,"Urvan NV350 18 Str 2.5L, M/T, DSL",2019,89T,Brilliant Silver,NEB 3169,714000,SM City Novaliches,Urvan NV350 18 Str 2.5L,manual,dsl,89000
+267,Sinotruk,"Howo A7 10 Wheeler 6x4, M/T, DSL",2019,20T,White,NEG 6462,1683000,"Howmart, QC",Howo A7 10 Wheeler 6x4,manual,dsl,20000
+268,Sinotruk,"Howo A7 8x4  Dumptruck, M/T, DSL",2019,155T (per checklist),Silver Gray,NFX 5753 (VIRTUAL PLATE),2226000,"Howmart, QC",Howo A7 8x4  Dumptruck,manual,dsl,155000
+269,Subaru,"BRZ 2.0 CVT, A/T, Gas",2020,14T,Blue Pearl,FAG 2148     CS# R0 I427,1460000,"Bolilao, Iloilo",BRZ 2.0 CVT,automatic,gas,14000
+270,Subaru,"Forester 2.0 XT CVT, A/T, Gas",2018,35T (per checklist),Crystal Black Silica,NBK 5539,1065000,MOA - PASAY,Forester 2.0 XT CVT,automatic,gas,35000
+271,Subaru,"Forester 2.0i-S Eyesight, A/T, Gas",2020,55T,Crystal White Pearl,FAL 5382,1193000,Bacolod,Forester 2.0i-S Eyesight,automatic,gas,55000
+272,Subaru,"Outback 3.6R-S Eyesight CVT, A/T, GAS",2019,28T,Crystal White Pearl,MAP 6413,1247000,Panabo City,Outback 3.6R-S Eyesight CVT,automatic,gas,28000
+273,Suzuki,"Alto 800 Standard, M/T, GAS",2019,25T (per checklist),Superior White,KAD 1055,251000,Cagayan de Oro,Alto 800 Standard,manual,gas,25000
+274,Suzuki,"Carry Cab & Chassis 1.5 Utility Van, M/T, Gas",2022,30T,White,NIB 3129,554000,MOA - PASAY,Carry Cab & Chassis 1.5 Utility Van,manual,gas,30000
+275,Suzuki,"Celerio 1.0 CVT, A/T, GAS",2019,31T,Pearl Ablaze Red,NBO 8324,341000,"Howmart, QC",Celerio 1.0 CVT,automatic,gas,31000
+276,Suzuki,"Ciaz GL, A/T, GAS",2019,9T,Pearl Pure White,FAG 3081,213000,"Bolilao, Iloilo",Ciaz GL,automatic,gas,9000
+277,Suzuki,"Dzire 1.2 GL, M/T, GAS",2020,80T,White,ZAB 4694,277000,Cagayan de Oro,Dzire 1.2 GL,manual,gas,80000
+278,Suzuki,"Dzire GL, A/T, GAS",2022,10T,Blue,NHB 7479,538000,MOA - PASAY,Dzire GL,automatic,gas,10000
+279,Suzuki,"Ertiga GL, A/T, GAS",2019,83T,Red,ZAB 9004,512000,Panabo City,Ertiga GL,automatic,gas,83000
+280,Suzuki,"Grand Vitara 2.4 GL, A/T, Gas",2017,44T (per checklist),Silver,S# UF3266 (WITHOUT PLATES),442000,Panabo City,Grand Vitara 2.4 GL,automatic,gas,44000
+281,Suzuki,"Jimny 1.3 JLX AWD, A/T, Gas",2018,118T (per checklist),Silver,KAB 8012,629000,Cagayan de Oro,Jimny 1.3 JLX AWD,automatic,gas,118000
+282,Suzuki,"Super Carry 0.8L, M/T, DSL",2018,127T,White,NBE 8241,213000,"Gateway Bus Park, Gen. Trias, Cavite",Super Carry 0.8L,manual,dsl,127000
+283,Suzuki,"Super Carry Pick-up, M/T, DSL",2020,26T,White,FAG 2955,341000,"Bolilao, Iloilo",Super Carry Pick-up,manual,dsl,26000
+284,Suzuki,"Super Carry Utility Van Non Aircon, M/T, DSL",2019,2T,Superior White,NEJ 3827,277000,MOA - PASAY,Super Carry Utility Van Non Aircon,manual,dsl,2000
+285,Suzuki,"Super Carry Utility Van, M/T, DSL",2017,66T,Superior White,FAB 3920,235000,"Bolilao, Iloilo",Super Carry Utility Van,manual,dsl,66000
+286,Suzuki,"Super Carry Utility Van, M/T, DSL",2018,82T,Superior White,FAD 9596,240000,"Bolilao, Iloilo",Super Carry Utility Van,manual,dsl,82000
+287,Suzuki,"Swift 1.2 GL CVT, A/T, Gas",2020,43T,Silver,FAL 7727,480000,"Bolilao, Iloilo",Swift 1.2 GL CVT,automatic,gas,43000
+288,Toyota,"Corolla Altis 1.6 G, M/T, GAS",2017,104T,Red Mica Metallic,BAA 5678,426000,"Howmart, QC",Corolla Altis 1.6 G,manual,gas,104000
+289,Toyota,"Corolla Altis 1.6 V, A/T, Gas",2019,54T,Red Mica Metallic,GAQ 8334 (VIRTUAL PLATES),767000,MOA - PASAY,Corolla Altis 1.6 V,automatic,gas,54000
+290,Toyota,"Fortuner G 4x2 2.4, A/T, DSL",2020,21T,Attitude Black Mica,GAM 9593,1332000,Cebu,Fortuner G 4x2 2.4,automatic,dsl,21000
+291,Toyota,"Fortuner G 4x2 2.4L, M/T, DSL",2018,85T,Freedom White,BAB 2711,959000,MOA - PASAY,Fortuner G 4x2 2.4L,manual,dsl,85000
+292,Toyota,"Fortuner G 4x2 2.4L, M/T, DSL",2018,97T,Silver Metallic,CS# A7 P887 (WITHOUT PLATES),1023000,Bacolod,Fortuner G 4x2 2.4L,manual,dsl,97000
+293,Toyota,"Fortuner G 4x2 2.4L, M/T, DSL",2018,109T,Phantom Brown Metallic,NCW 1611,1018000,"Gateway Bus Park, Gen. Trias, Cavite",Fortuner G 4x2 2.4L,manual,dsl,109000
+294,Toyota,"Fortuner G 4x2 2.7, A/T, GAS",2020,34T,Freedom White,CS# P6 P194 (WITHOUT PLATES),1172000,MOA - PASAY,Fortuner G 4x2 2.7,automatic,gas,34000
+295,Toyota,"Fortuner V 4x4 2.8, A/T, DSL",2018,48T,White Pearl,CS# A6 M397 (WITHOUT PLATES),1310000,Bacolod,Fortuner V 4x4 2.8,automatic,dsl,48000
+296,Toyota,"Hiace Commuter 3.0, M/T, DSL (For Hire)",2019,150T,White,NEC 5384 (VIRTUAL PLATE) / CS# P1 R104 (WITHOUT PLATES),576000,MOA - PASAY,Hiace Commuter 3.0,manual,dsl,150000
+297,Toyota,"Hiace Commuter 3.0L, M/T, DSL",2017,115T,White,NDD 7974,751000,"Howmart, QC",Hiace Commuter 3.0L,manual,dsl,115000
+298,Toyota,"Hilux Conquest 4x2 2.4, A/T, DSL",2019,45T,Freedom White,NBE 9629,1028000,"Howmart, QC",Hilux Conquest 4x2 2.4,automatic,dsl,45000
+299,Toyota,"Hilux Conquest 4x2 2.4, A/T, DSL",2021,55T,Freedom White,GAU 4256,1065000,MOA - PASAY,Hilux Conquest 4x2 2.4,automatic,dsl,55000
+300,Toyota,"Hilux Conquest 4x4 2.8, M/T, DSL",2020,44T,Freedom White,GAN 4818,1428000,"Bolilao, Iloilo",Hilux Conquest 4x4 2.8,manual,dsl,44000
+301,Toyota,"Hilux Conquest 4x4 2.8L, M/T, DSL",2019,159T,Freedom White,GAO 3018,1215000,Bacolod,Hilux Conquest 4x4 2.8L,manual,dsl,159000
+302,Toyota,"Hilux Conquest 4x4 2.8L, M/T, DSL",2019,179T,Attitude Black Mica,EAB 9340,1220000,"Gateway Bus Park, Gen. Trias, Cavite",Hilux Conquest 4x4 2.8L,manual,dsl,179000
+303,Toyota,"Hilux G 4x2 2.4, M/T, DSL",2019,72T,Orange Metallic,NBO 2245,837000,Panabo City,Hilux G 4x2 2.4,manual,dsl,72000
+304,Toyota,"Hilux G 4x2 2.4L, M/T, DSL",2020,27T,Gray Metallic,NGD 6447,1039000,MOA - PASAY,Hilux G 4x2 2.4L,manual,dsl,27000
+305,Toyota,"Innova 2.8 E, A/T, DSL",2019,21T,Blackish Red Mica,NDK 8261,842000,MOA - PASAY,Innova 2.8 E,automatic,dsl,21000
+306,Toyota,"Innova 2.8 E, A/T, DSL",2019,23T,Red Mica Metallic,NDO 5082,831000,"Gateway Bus Park, Gen. Trias, Cavite",Innova 2.8 E,automatic,dsl,23000
+307,Toyota,"Innova 2.8 E, M/T, DSL",2020,33T,Thermalyte,GAN 7430,879000,"Bolilao, Iloilo",Innova 2.8 E,manual,dsl,33000
+308,Toyota,"Innova 2.8 E, M/T, DSL",2020,120T,Blackish Red Mica,NGF 1172,815000,"Gateway Bus Park, Gen. Trias, Cavite",Innova 2.8 E,manual,dsl,120000
+309,Toyota,"Rav 4 4x2 2.5L, A/T, Gas",2014,48T,White Pearl,AAM 7408,506000,MOA - PASAY,Rav 4 4x2 2.5L,automatic,gas,48000
+310,Toyota,"Vios 1.3 E, A/T, Gas",2018,77T,Blackish Red Mica,GAJ 3263,357000,Bacolod,Vios 1.3 E,automatic,gas,77000
+311,Toyota,"Vios 1.3 XE CVT, A/T, GAS",2020,23T,Thermalyte,EAD 9169,448000,"Gateway Bus Park, Gen. Trias, Cavite",Vios 1.3 XE CVT,automatic,gas,23000
+312,Toyota,"Vios 1.3 XLE CVT, A/T, Gas",2020,60T,Alumina Jade Metallic,GAO 2362,480000,Bacolod,Vios 1.3 XLE CVT,automatic,gas,60000
+313,Toyota,"Vios 1.3 XLE, A/T, GAS",2021,28T,Blackish Red Mica,CAV 7385,533000,"Howmart, QC",Vios 1.3 XLE,automatic,gas,28000
+314,Toyota,"Vios 1.5 G, A/T, Gas",2019,57T,Black,NDO 8141,533000,MOA - PASAY,Vios 1.5 G,automatic,gas,57000
+315,Toyota,"Wigo 1.0 G, A/T, GAS",2021,19T,Black,EAF 5783,474000,MOA - PASAY,Wigo 1.0 G,automatic,gas,19000
+316,Volkswagen,"Polo NB 1.6L Trendline, A/T, Gas",2016,58T,Red,FAB 1967,320000,MOA - PASAY,Polo NB 1.6L Trendline,automatic,gas,58000
+317,Volkswagen,"Santana 1.5L MPI, A/T, Gas",2019,19T,Silver Metallic,NAN 3264,458000,MOA - PASAY,Santana 1.5L MPI,automatic,gas,19000
+318,Volvo,"XC40 T5 2.0, A/T, Gas",2020,9T,Crystal White,NGJ 8987,2343000,"Howmart, QC",XC40 T5 2.0,automatic,gas,9000
